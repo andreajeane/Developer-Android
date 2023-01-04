@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="id.ac.poliban.mi.vc.andrea.recyclerviewchallenge_andrea.MainActivity">
+    <item
+        android:id="@+id/reset"
+        android:orderInCategory="100"
+        android:title="@string/action_reset"
+        app:showAsAction="never" />
+</menu>

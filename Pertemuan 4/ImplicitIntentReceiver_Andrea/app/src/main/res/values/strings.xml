@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImplicitIntentReceiver_Andrea</string>
+    <string name="uri_label">URI:</string>
+</resources>

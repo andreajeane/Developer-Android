@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">CodeChallengeIntent_Andrea</string>
+
+    <string name="text_one">Text 1</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+    <string name="article_subtitle">\n <b>Behind That Locked Door: Beatles Rarities!</b> \n</string>
+    <string name="article_text"> In a vault deep inside Abbey Road Studios in London - protected by an unmarked, triple-locked, police-alarmed door - are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the <i>Let It Be</i> album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series.
+        For more information, see the Beatles Time Capsule at www.rockument.com.
+    \n\n
+    This volume starts with the first new Beatle song, "Free as a Bird" (based on a John Lennon demo, found only on <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
+    \n\n
+    <b><i>Cry for a Shadow</i></b> - Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs.
+    \n\n
+    <b><i>My Bonnie</i></b> and <b><i>Ain’t She Sweet</i></b> — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal).
+    \n\n
+    <b><i>Searchin</i></b> — A Jerry Leiber - Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys!
+    \n\n
+    <b><i>Love Me Do</i></b> — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version.
+    \n\n
+    <b><i>She Loves You – Till There Was You – Twist and Shout</i></b> — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark.
+    \n\n
+    <b><i>Leave My Kitten Alone</i></b> — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R&amp;B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker.
+    \n\n
+    <b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
+    </string>
+
+    <string name="add_comment">ADD COMMENT</string>
+
+    <!--    batas 1-->
+    <string name="text_two">Text 2</string>
+    <string name="article_title_two">Malin Kundang</string>
+    <string name="article_subtitle_two">\n <b>Folk legend from the province of Riau</b> \n</string>
+    \n\n
+    <string name="article_text_two">Long time ago, in a small village near the beach in West Sumatera, lived a woman and her son, Malin Kundang. Malin Kundang’s father had passed away when he was a baby, and he had to live hard with his mother.
+
+Malin Kundang was a healthy, dilligent, and strong child. He usually went to the sea to catch fish, and brought it to his mother, or sold it in the town.
+
+One day, when Malin Kundang was sailing as usual, he saw a merchant’s ship which was being raided by a small band of pirates. With his brave and power, Malin Kundang defeated the pirates. The merchant was so happy and asked Malin Kundang to sail with him. Malin Kundang agreed.
+
+Many years later, Malin Kundang became a wealthty merchant, with a huge ship, loads of trading goods, many ship crews, and a beautiful wife. In his journey, his ship landed on a beach. The villagers reconigzed him, and the news ran fast in the town: Malin Kundang became a rich man and now he is here. His mother, in deepful sadnees after years of loneliness, ran to the beach to meet her beloved son again.
+
+When the mother came, Malin Kundang, in front of his well dressed wife, his crews and his own gloriness, denied to meet that old, poor and dirty woman. For three times she begged Malin Kundang and for three times yelled at him. At last Malin Kundang said to her “Enough, old woman! I have never had a mother like you, a dirty and ugly peasant!” Then he ordered his crews to set sail.
+
+Enraged, she cursed Malin Kundang that he would turn into a stone if he didn’t apologize. Malin Kundang just laughed and set sail.
+
+In the quiet sea, suddenly a thunderstorm came. His huge ship was wrecked and it was too late for Malin Kundang to apologized. He was thrown by the wave out of his ship, fell on a small island, and suddenly turned into stone.</string>
+
+    <!--    batas 2-->
+    <string name="text_three">Text 3</string>
+    <string name="article_title_three">Bawang Merah Bawang Putih</string>
+    <string name="article_subtitle_three"> <b>Folk legend from the province of Riau</b> \n</string>
+    <string name="article_text_three">The days of yore in a village lived a family consisting of a father, mother and a teenage girl named beautiful garlic. They are a happy family. Although father garlic only merchants, but they live peacefully and get along well. But one day the mother of garlic ill and eventually died. Garlic is very similarly bereaved father.
+In the village lived also a widow who has a child named red onion. Since the mother died, the mother of garlic red onions often pay a visit to the home of the garlic. He often brought food, garlic helps take care of the House or simply accompany the garlic and his father chatting. Finally the father of garlic thinking that it might be better if he was married to the mother of the onion, the garlic not so lonely anymore.
+        \n\n
+        With consideration of the garlic, then the father is married to the mother of garlic shallots. Initially the mother of red onions and shallots are very good to Provence. But their real nature gradually started to become visible. They often scold the garlic and give him heavy work if the father is away the garlic trade. Garlic must be worked on all the homework, while Bawang merah and her mother just sitting alone. Of course Daddy garlic don’t know it, because the garlic never tell it.
+One day Father Garlic fell ill and later died. Since then the onion and his mother are increasingly powerful and arbitrarily against garlic. Garlic is almost never at rest. He had to be up before dawn, to prepare the bath water and breakfast for onion and his mother. Then she had to feed the cattle, watering gardens and washing clothes to the river. Then he must still be ironed out, took care of the House, and many other jobs. But garlic is always doing his job with glee, because he hoped that someday his stepmother would love him as his own son.
+This morning as usual garlic brought a basket containing the clothes that will be dicucinya in the river. With a small singing him down a path on the edge of a small forest of the usual kind. That day the weather was sunny. Garlic immediately wash all dirty clothes which he carried. I was so too excitedly, garlic is not aware of bahwasalah one shirt has been drifting are carried by the current. That wretched clothes drift is the favourite clothes his stepmother. When realizing it, clothes his stepmother has drifted too far. Try garlic down the River to look for her, but did not manage to find it. In desperation he returned home and told his mother.
+“Basic sloppy!” snapped his stepmother. “I don’t want to know, anyway you have to find that dress! And don’t dare go home if you don’t find it. Understand? “
+Garlic is forced to obey his wishes ibun. He immediately down the place to wash. Mataharisudah start rising, but garlic also has yet to find his mother’s clothes. She put up her eyes, carefully diperiksanya every juluran root protrusion into rivers, who knows his mother’s clothes get caught there. After stepping away and the Sun was already leaning to the West, the garlic look a shepherd who are bathing kerbaunya. The garlic then asked: “o good, whether Uncle Uncle looking red dress who drift through here? Because I had to find it and bring it home. “ “Ya last I see nak. If you pursue fast–fast, maybe you could pursue that, “said his uncle was.
+“Well uncle, thank you!” said the garlic and immediately ran back down. Today is already getting dark, the garlic had started to despair. Night will soon arrive, and garlic. From a distance it looks light that comes from a shack on the banks of the river. Garlic immediately approached the House and mengetuknya.
+“Excuse me!” said the garlic. An old woman opened the door.
+“Who are you son?” asked Grandma to it.
+“I am a garlic nek. Just now I’m looking for my mother’s clothes are drifting. And now kemalaman. May I stay here tonight? “asked garlic.
+“Be nak. Whether you’re looking for an outfit that is red? “asked Grandma.
+“Yes nek. What … my grandmother found it? “asked the garlic.
+“Ya. Last shirt was stuck in front of my house. It’s a shame, but I liked the shirt, “said the grandmother. “Well I’m going to return it, but you have to keep me company used to be here for a week. Been a long time I had a conversation with anyone, how? “the pinta‘s grandmother. Garlic is thought for a moment. Granny looks lonely. Garlic ever feel pity. “Nek, I would accompany my grandmother for a week, my grandmother is not bored just me,” said the garlic with a smile.
+During the week the garlic stayed with Grandma. Daily garlic helps work the works of Grandma’s House.
+
+Of course it’s grandma was pleased. Until eventually even already a week, Grandma ever call garlic.
+“Son, already a week you’re living here. And I’m glad because you’re a diligent and dutiful son. For that match my promise you may bring suits your mother home. And one more, you may choose one of two pumpkin as a gift! “said the grandmother.
+Originally garlic declined given the prize but still forced her grandmother. Eventually garlic pumpkin picking the least. “My fear is not that great, bringing powerful,” he said. Grandma ever smiling and delivering garlic to the home front.
+Arriving at the House, garlic handed red dress belongs to his mother while she went to the kitchen to chop yellow squash. What a surprise that when garlic pumpkin split, it turns out to contain a gold jewel. He yelled I was so excited and told this magic to his stepmother and the shallots with the greedy langsun captured the gold and gems. They forced the garlic to tell me how he can get the prize. Garlic any recount with to be honest.
+Hear the story of garlic, onion and her mother plan to do the same thing but this time the onion that would do it. In short the end of onion to the old grandmother at home on the edge of the river. Like garlic, onion ever was asked to accompany him for a week. Unlike an avid garlic, during the week that the onion just lazing. If anything done then the outcome is never good because it is always done with random. Finally after a week my grandmother that allow onion to go. “Isn’t it supposed to be my grandmother gave me a pumpkin as a gift because of menemanimu during the week?” asked red onion. The grandmother was forced to enjoin the onion selects one of two pumpkins that are offered. With quick onion take great and without flask to thank her pitch went.
+Arriving at the House of red onions soon encountered his mother and happily saw the pumpkin which he carried. For fear of garlic will request section, they had garlic to go into the river. Then with the impatient they chop the pumpkin. But it turns out that instead of gold jewels out of the pumpkin, but the venomous animals such as snakes, scorpions, and others. The animals were directly attacked the red onion and her mother to death. That is the reply for people who are greedy.</string>
+    <!--    batas 3-->
+</resources>

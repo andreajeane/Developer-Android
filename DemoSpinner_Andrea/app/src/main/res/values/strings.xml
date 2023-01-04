@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DemoSpinner_Andrea</string>
+
+    <string name="asian">South East Asian Countries</string>
+    <string-array name="South">
+        <item>Myanmar</item>
+        <item>Laos</item>
+        <item>Kamboja</item>
+        <item>Thailand</item>
+        <item>Indonesia</item>
+        <item>Vietnam</item>
+        <item>Malaysia</item>
+        <item>Philiphine</item>
+        <item>Singapura</item>
+        <item>Timur Leste</item>
+        <item>Brunei</item>
+    </string-array>
+
+</resources>

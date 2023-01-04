@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterHomework_Andrea</string>
+    <string name="count">Count</string>
+    <string name="value">0</string>
+</resources>

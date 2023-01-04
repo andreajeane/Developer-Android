@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChallengeLifecycle_Andrea</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="choose">Choose Item</string>
+    <string name="item_list">Shopping Item</string>
+    <string name="btapel">Apel</string>
+    <string name="btnasi">Nasi</string>
+    <string name="btkeju">Keju</string>
+    <string name="btroti">Roti</string>
+    <string name="btmargarin">Margarin</string>
+    <string name="btgula">Gula</string>
+    <string name="btsosis">Sosis</string>
+    <string name="bttepung">Tepung</string>
+    <string name="btsusu">Susu Bubuk</string>
+    <string name="btkentang">Kentang</string>
+</resources>
